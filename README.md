@@ -67,7 +67,7 @@ loaded the data into out sqlite database - where we would later query from. <str
 3. page_1_logic.js contains the main javescript code for the first web page.
 4. page_2_logic.js contains the main javescript code for the second web page (map).
 5. app_server.py contains the python flask powered API. This creates the API and it's directories.
-6. etl.ipynb contains the python code that etracts, transforms, and loads the original https://open-meteo.com/ API data into our sqlite database.
+6. etl.ipynb contains the python code that extracts, transforms, and loads the original https://open-meteo.com/ API data into our sqlite database.
 7. style.css contains the styling code for both web pages.
 8. city_weather_info.db is our sqlite database containing all our of cities' weather information.
 9. background_image.jpg is the background image used for our first web page and is referenced in out style.css file.
