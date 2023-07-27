@@ -49,7 +49,8 @@ loaded the data into out sqlite database - where we would later query from. <str
 
 ### Creating a dashboard page with interactive graphs
 <strong>We used Javascript, HTML, and CSS to create an interactive website that displays graphs with data populated from our sqlite database.<strong /><br />
-![image](https://github.com/dclaxto1/Project-3-/assets/128431134/788722a0-ea17-47f3-9cb4-4c1afa31c62b) <br />
+![image](https://github.com/dclaxto1/Project-3-/assets/128431134/855c0c5d-bfb6-4069-b6ad-115a1f958487)
+<br />
 ![image](https://github.com/dclaxto1/Project-3-/assets/128431134/ed66bc7a-4383-49c2-882e-8318f7159d10)
 
 <strong> We then created a 2nd page that contained a map view of the cities<strong /><br />
@@ -71,6 +72,7 @@ loaded the data into out sqlite database - where we would later query from. <str
 7. style.css contains the styling code for both web pages.
 8. city_weather_info.db is our sqlite database containing all our of cities' weather information.
 9. background_image.jpg is the background image used for our first web page and is referenced in out style.css file.
+10. SQL_Queries.ipynb contains the code used to query our database to answer weather questions.
 
 
 
