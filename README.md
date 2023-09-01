@@ -64,7 +64,7 @@ loaded the data into out sqlite database - where we would later query from. <str
 
 ## File-notes:
 1. index1.html contains the main html code for the first web page (the interactive graphs and dropdowns).
-2. index2.htmll contains the main html code for the 2nd web page containing the map view.
+2. index2.html contains the main html code for the 2nd web page containing the map view.
 3. page_1_logic.js contains the main javescript code for the first web page.
 4. page_2_logic.js contains the main javescript code for the second web page (map).
 5. app_server.py contains the python flask powered API. This creates the API and it's directories.
