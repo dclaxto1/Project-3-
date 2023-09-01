@@ -9,9 +9,9 @@
 - [File-notes](#file-notes)
 ## Requirements
 ​
-For Project 3, I had to work with your group to tell a story using data visualizations. Here are the specific requirements we had to fulfill:
+For Project 3, I had to work with my group to tell a story using data visualizations. Here are the specific requirements we had to fulfill:
 ​
-1. Your visualization must include a Python Flask-powered API, HTML/CSS, JavaScript, and at least one database (SQL, MongoDB, SQLite, etc.).
+1. Your visualization must include a Python Flask-powered API, HTML/CSS, JavaScript, and at least one database (SQL, MongoDB, **SQLite**, etc.).
 ​
 2. Your project should fall into one of the following three tracks:
 ​
