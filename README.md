@@ -48,7 +48,7 @@ loaded the data into out sqlite database -> where we would later query from. <st
 ![image](https://github.com/dclaxto1/Project-3-/assets/128431134/5b0f6ffe-5b13-496b-831a-fba4b93a55b7)
 
 ### Creating a dashboard page with interactive graphs
-<strong>We used Javascript, HTML, and CSS to create an interactive website that displays graphs with data populated from our sqlite database.<strong /><br />
+<strong>We used Javascript, HTML, and CSS to create an interactive website that displays graphs with data populated from our sqlite database.<strong /> <br />
 ![image](https://github.com/dclaxto1/Project-3-/assets/128431134/855c0c5d-bfb6-4069-b6ad-115a1f958487)
 <br />
 ![image](https://github.com/dclaxto1/Project-3-/assets/128431134/ed66bc7a-4383-49c2-882e-8318f7159d10)
