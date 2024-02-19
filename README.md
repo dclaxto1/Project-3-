@@ -40,7 +40,7 @@ For Project 3, I had to work with my group to tell a story using data visualizat
 ![image](https://github.com/dclaxto1/Project-3-/assets/128431134/0c04d24f-2cd2-4e96-8f34-05a5c94213c8)
 
 <strong> We then created an ERD of our star schema for our database and
-loaded the data into out sqlite database -> where we would later query from. <strong /><br />
+loaded the data into out sqlite database -> where we would later query from. <strong /> <br />
 ![image](https://github.com/dclaxto1/Project-3-/assets/128431134/533933d9-3258-4e62-a229-3c63e9e3f262)
 
 ### Python Flask Powered API
