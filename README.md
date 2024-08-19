@@ -1,7 +1,7 @@
 # Project-3-     
 ## Table of Contents
 - [Requirements](#requirements)  
-- [Process](#process)
+- [Process](#process)  
     - [ETL](#etl)
     - [Python Flask Powered API](#python-flask-powered-api)
     - [Creating a dashboard page with interactive graphs](#creating-a-dashboard-page-with-interactive-graphs)
