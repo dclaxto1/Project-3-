@@ -3,7 +3,7 @@
 - [Requirements](#requirements)  
 - [Process](#process)  
     - [ETL](#etl)
-    - [Python Flask Powered API](#python-flask-powered-api)
+    - [Python Flask Powered API](#python-flask-powered-api) 
     - [Creating a dashboard page with interactive graphs](#creating-a-dashboard-page-with-interactive-graphs)
 - [Running-instructions](#running-instructions)
 - [File-notes](#file-notes)
