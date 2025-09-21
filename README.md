@@ -7,7 +7,7 @@
     - [Creating a dashboard page with interactive graphs](#creating-a-dashboard-page-with-interactive-graphs)
 - [Running-instructions](#running-instructions)
 - [File-notes](#file-notes) 
-## Requirements 
+## Requirements   
 ​
 For Project 3, I had to work with my group to tell a story using data visualizations. Here are the specific requirements we had to fulfill:
 ​
